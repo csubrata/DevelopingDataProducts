@@ -28,4 +28,4 @@ Dependencies
 
 More Information
 
-The application is deployed on ShinyApps.io at [https://csubrata.shinyapps.io/ddp/](https://cusbrata.shinyapps.io/ddp/).
+The application is deployed on ShinyApps.io at [https://csubrata.shinyapps.io/ddp1/](https://cusbrata.shinyapps.io/ddp1/).
